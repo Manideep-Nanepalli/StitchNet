@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Large datasets and models
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.h5
+*.ckpt
+*.pt
+*.pth
+*.npz
+*.npy
+*.zip
+*.tar
+*.tar.gz
+*.nii.gz
+*.nii   
+*.dcm
+
+# Logs and cache
+*.log
+*.out
+*.err
+.cache/
+logs/
+wandb/
+tensorboard/
+Converted_Liver_DaTA/
+data/
+data(kits 19)/
+ircad/
+liver_data/
+
+SFR/code/flash-attention/
+SFR/model_atlas/
+SFR/model_duke/
+SFR/model_kits19/
